@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>C:/Users/vk/Desktop/dbma/gs-rest-service/vk/src/main/java</OriginalElement>
+  <nodes>
+    <node x="0.0" y="292.0">com.springldapsecurity.vk.VkApplication</node>
+    <node x="0.0" y="168.0">com.springldapsecurity.vk.Controller.RestAppController</node>
+    <node x="0.0" y="0.0">com.springldapsecurity.vk.Configuration.SecConfig</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="84.5" y="227.0" />
+  <SelectedNodes>
+    <node>com.springldapsecurity.vk.VkApplication</node>
+    <node>com.springldapsecurity.vk.Controller.RestAppController</node>
+    <node>com.springldapsecurity.vk.Configuration.SecConfig</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
